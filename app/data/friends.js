@@ -1,0 +1,2 @@
+// Includes a single default profile, so that anyone demoing from the GitHub repository will have a result.
+module.exports = [{"name":"Puppy","photo":"http://cdn1-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg","answers":["2","5","5","4","5","1","1","2","2","2"]}];
